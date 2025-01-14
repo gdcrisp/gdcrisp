@@ -1,7 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/gdcrisp?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/gdcrisp?style=social)
 
-Welcome to my GitHub profile! I'm passionate about software development, network and audio DSP, fullstack web development, and a little bit of game development and machine learning.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
