@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **DSP and Fullstack Web Development**
+- 🌱 I’m currently working on **DSP and Fullstack Web Development**
 - 🧃 I also enjoy developing *Games* and making music in my free time
 ## 🛠️ Languages and Tools
 
