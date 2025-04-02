@@ -3,11 +3,6 @@
 
 Welcome to my GitHub profile!
 
-## 🚀 About Me
-
-- 🌱 I’m currently working on **DSP and Fullstack Web Development**
-- 🧃 I also enjoy developing *Games* and making music in my free time
-## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="Rust" width="40" height="40"/>
